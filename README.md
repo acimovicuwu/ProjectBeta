@@ -1,12 +1,3 @@
-# Quizizz-cheat
-
-There are two methods for retrieving answers.
-
-1. [Fetching Quizizz API](#fetching-quizizz-api)
-2. [Sending answers as someone else](#sending-answers-as-someone-else) (old method)
-
-You can load this script automatically using a browser extension.
-- [Using Tampermonkey](#load-automatically-using-tampermonkey)
 
 # Methods
 ## Fetching Quizizz API
@@ -34,11 +25,3 @@ fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/oldmethod/dist/
 ```
 3. Enter the user name of any other player (the user won't get points even if they sent a valid answer).
 4. Go to step 2
-
-### Load automatically using Tampermonkey
-1. Install the browser extension on **https://www.tampermonkey.net/**
-2. Create a new user script and paste the contents of [scripts/tampermonkey-alternative-method.js](scripts/tampermonkey-alternative-method.js)
-3. The script should now be automatically loaded every time you enter a quizizz.
-
-As we can see on this screenshot, the answer **www.quizizz.com** has the highest opacity, indicating a valid answer.
-![screenshot](/docs/screenshot_1.png)
