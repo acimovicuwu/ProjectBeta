@@ -1,6 +1,8 @@
 
-# Methods
+# Project Beta
 ## Fetching Quizizz API
+
+##DISCLAMER: I am not using this for cheating, or hacking... I just want to test how this exploit works and make a patch for teachers later.
 
 It should work in Test and Classic mode.
 1. Join Quiz
