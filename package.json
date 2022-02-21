@@ -1,7 +1,7 @@
 {
-  "name": "quizizz-cheat",
+  "name": "nijesumnjivo",
   "version": "1.0.0",
-  "description": "Cheat for quizizz",
+  "description": "Nista",
   "main": "src/index.ts",
   "private": true,
   "scripts": {
